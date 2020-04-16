@@ -1,0 +1,9 @@
+.image-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.image-container__img {
+  flex-grow: 1;
+}
