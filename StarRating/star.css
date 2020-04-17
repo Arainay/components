@@ -2,8 +2,8 @@
   display: inline-block;
   width: 24px;
   margin-right: 8px;
+}
 
-  &:last-child {
-    margin-right: 0;
-  }
+.star:last-child {
+  margin-right: 0;
 }

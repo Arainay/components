@@ -1,0 +1,13 @@
+.star-rating {
+  display: flex;
+  align-items: center;
+}
+
+.star-rating__stars {
+  margin-right: 8px;
+}
+
+.star-rating__value {
+  font-size: 21px;
+  color: rgba(48, 48, 48, .64);
+}

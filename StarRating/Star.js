@@ -1,5 +1,5 @@
 import React from 'react';
-import './star.scss';
+import './star.css';
 
 const Star = ({ gradientId, fillColor, strokeColor, value }) => {
   const valueInPercent = value * 100;

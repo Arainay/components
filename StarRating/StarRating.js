@@ -1,6 +1,6 @@
 import React from 'react';
 import Star from './Star';
-import './star-rating.scss';
+import './star-rating.css';
 
 const StarRating = ({ value, max }) => (
   <div className="star-rating">
